@@ -1,0 +1,26 @@
+.navHeader {
+  width: 100vw;
+  height: 100px;
+  align-items: center;
+  background-color: #292929;
+}
+
+.divPrincipal {
+  width: 100vmax;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logoName {
+  font-size: 48px;
+  font-family: "Pacifico";
+  color: #ffa6ff;
+}
+
+.blog {
+  padding-right: 100px;
+}
+
+.acessar {
+}
